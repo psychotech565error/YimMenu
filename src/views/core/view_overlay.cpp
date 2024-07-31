@@ -23,7 +23,11 @@ namespace big
 		}
 		if (ImGui::Begin("overlay", nullptr, window_flags))
 		{
-			ImGui::Text("YimMenu");
+			ImGui::Text("LynnnMenu");
+
+			ImGui::Separator();
+
+			ImGui::Text("By 565error");
 
 			ImGui::Separator();
 

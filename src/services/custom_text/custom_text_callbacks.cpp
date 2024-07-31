@@ -6,7 +6,7 @@ namespace big
 	const char* respawn_label_callback(const char* label)
 	{
 		if (g.self.god_mode)
-			return "~r~Dying with god mode, how?";
+			return "~r~Noh mcm mana bole mati dalam GodMode?";
 
 		return nullptr;
 	}
